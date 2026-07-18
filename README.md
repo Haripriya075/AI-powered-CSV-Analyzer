@@ -1,5 +1,4 @@
-# AI-powered-CSV-Analyzer
-# AI-Powered CSV Data Analyzer
+# AI-powered-CSV-Data-Analyzer
 
 <img width="836" height="545" alt="image" src="https://github.com/user-attachments/assets/3c6f19eb-c026-4798-a3b8-cd888458b7a7" />
 
