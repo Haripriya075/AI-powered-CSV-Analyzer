@@ -55,7 +55,7 @@ Analyzing datasets often requires programming knowledge and multiple software to
 - Pandas
 - NumPy
 - Plotly
-- OpenAI API (or your AI provider, if applicable)
+- OpenAI API 
 - Replit
 
 ---
@@ -196,7 +196,7 @@ streamlit run app.py
 
 **Replit Deployment**
 
-https://replit.com/@haripriya075/CSV-ANALYSER
+https://csv-analyser--haripriya075.replit.app/
 
 ---
 
